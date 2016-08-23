@@ -24,3 +24,8 @@ During the last 3 weeks of the students time at Prime Digital Academy.
 # What technologies were used?
 
 The Full MEAN Stack (AngularJS, Express.js, Node.js, MongoDB) as well as HTML5, CSS3, Bootstrap, Passport, bcrypt, and mLab.
+
+
+# How to view it:
+
+https://mondoshorties.herokuapp.com/#/login
