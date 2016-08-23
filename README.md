@@ -7,9 +7,9 @@ Shortiez is a customizable short story web app that allows children to name the 
 
 # Who is it made for?
 
-Shortiez was the brilliant idea of Mondo Davison, the self described Black Tech Guy, who has worked in the Saint Paul public school system for 7 years.
+Shortiez was the brilliant idea of Mondo Davison, the self described Black Tech Guy, who has worked in the Saint Paul public school system for 7 years. 
 http://www.kare11.com/news/the-black-tech-guy-encourages-kids-to-dream-smarter/23244682
-
+His dream is for children of color to have stories that represent them and help them engage in reading and learning. 
 
 # Who made it?
 
