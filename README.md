@@ -29,3 +29,8 @@ The Full MEAN Stack (AngularJS, Express.js, Node.js, MongoDB) as well as HTML5, 
 # How to view it:
 
 https://mondoshorties.herokuapp.com/#/login
+
+(Login information: 
+  Login: Admin
+  Password: admin
+)
